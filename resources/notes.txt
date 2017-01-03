@@ -1,0 +1,3 @@
+Topleft: (1740,134)
+Whole area: 768x768
+Tile: 96x96
